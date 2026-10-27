@@ -79,7 +79,7 @@ MyCrop_processing/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── .venv/                         # Local environment; do not commit
+├── .venv/                         
 ├── notebooks/
 │   ├── 01_dataset_preparation.ipynb
 │   ├── 02_clip_to_aoi.ipynb
